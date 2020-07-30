@@ -1,14 +1,7 @@
-# Thomas Faust PhD
-Head of Publishing Insights and Innovation
-
-Hindawi Limited, London, UK
-
 ### My outputs
-![ORCID](https://orcid.org/sites/default/files/images/orcid_16x16.png) [0000-0003-0715-4419](https://orcid.org/0000-0003-0715-4419)
-
+ORCiD [0000-0003-0715-4419](https://orcid.org/0000-0003-0715-4419)
 GitHub [tbfaust](https://github.com/tbfaust)
 
 ### My social
-Twitter [tbfaust](https://twitter.com/tbfaust)
-
-LinkedIn [Thomas Faust](https://www.linkedin.com/in/thomasbfaust/)
+twitter [tbfaust](http://i.imgur.com/tXSoThF.png)[tbfaust](https://twitter.com/tbfaust)
+LinkedIn [thomasbfaust](https://www.linkedin.com/in/thomasbfaust/)

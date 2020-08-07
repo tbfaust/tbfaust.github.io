@@ -8,3 +8,4 @@ Data Camp [tbfaust](datacamp.com/profile/tbfaust)
 ### My social
 twitter [tbfaust](https://twitter.com/tbfaust)<br>
 LinkedIn [thomasbfaust](https://www.linkedin.com/in/thomasbfaust/)
+facebook [thomas.faust.1272](https://www.facebook.com/thomas.faust.1272)

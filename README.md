@@ -1,4 +1,4 @@
-Thomas Faust PhD
+# Thomas Faust PhD
 
 ### My social
 Twitter     [tbfaust](https://twitter.com/tbfaust)<br>

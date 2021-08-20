@@ -1,8 +1,8 @@
- 
+<header></header> 
 ### My social
 Twitter     [tbfaust](https://twitter.com/tbfaust)<br>
 LinkedIn    [thomasbfaust](https://www.linkedin.com/in/thomasbfaust/)<br>
-Facebook    [thomas.faust.1272](https://www.facebook.com/thomas.faust.1272)
+Facebook    [thomasbfaust](https://www.facebook.com/thomasbfaust)
 
 ### My data
 GitHub      [tbfaust](https://github.com/tbfaust) <br>

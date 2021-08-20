@@ -1,3 +1,5 @@
+Thomas Faust PhD
+
 ### My social
 Twitter     [tbfaust](https://twitter.com/tbfaust)<br>
 LinkedIn    [thomasbfaust](https://www.linkedin.com/in/thomasbfaust/)<br>

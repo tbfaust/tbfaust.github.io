@@ -1,6 +1,7 @@
 <br>
 ### My social
 Twitter     [tbfaust](https://twitter.com/tbfaust)<br>
+Bluesky     [tbfaust.bsky.social]([https://twitter.com/tbfaust](https://bsky.app/profile/tbfaust.bsky.social))<br>
 LinkedIn    [thomasbfaust](https://www.linkedin.com/in/thomasbfaust/)<br>
 Facebook    [thomasbfaust](https://www.facebook.com/thomasbfaust)
 
